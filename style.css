@@ -1,0 +1,262 @@
+
+
+.div1 {
+    background-color: #2D336B;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    
+    align-items: center; /* Corrected */
+    justify-content: center; /* Centers items horizontally */
+    box-shadow: 0px -5px 30px rgba(57, 62, 62, 0.9);
+}
+body{
+    background-color: black;
+}
+.one{
+    color: #6EACDA;
+    display: flex;
+    align-items: centre;
+    justify-content: center;
+}
+.two{
+    color: aliceblue;
+    display: flex;
+    align-items: centre;
+    justify-content: center;
+}
+.image {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: #6bc02e;
+    border: 2px solid black; 
+    background-image: url(AYUU[2].png);
+    background-size: cover;
+    
+    background-position: 50% 99%; /* Center */
+    margin-left: 970px;
+    margin-top: 50px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 30px #6EACDA;
+    
+    
+}
+.image:hover {
+    
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);/* Change border-radius on hover */
+}
+.div1 a{
+    text-decoration: none;
+    margin-right: 40px; 
+    color: #FFFFFF;
+    font-size: 50px;
+   
+
+}
+.div1 a:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.div2 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 345px;
+    width: 800px;
+    margin-left: 700px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(205, 72, 72, 0.9);
+    
+}
+.div2:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.div3 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 450px;
+    width: 800px;
+    margin-left: 700px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(205, 72, 72, 0.9);
+    
+}
+.div3:hover{
+    box-shadow: 0px 0px 30px rgba(57, 57, 192, 0.8);
+
+}
+.div4 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 400px;
+    width: 800px;
+    margin-left: 700px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(205, 72, 72, 0.9);
+}
+.div4:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.div5 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 300px;
+    width: 800px;
+    margin-left: 700px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(205, 72, 72, 0.9);
+}
+.div5:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.div6{
+    display: flex;
+}
+.div7 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 650px;
+    width: 500px;
+    
+    color:rgba(255, 255, 255, 0.7) ;
+    margin-left: 230px;
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(255, 165, 0, 0.9);
+    
+}
+.div7:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+
+.div8{
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 450px;
+    width: 600px;
+    
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 50px;
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-shadow: 0px -5px 30px rgba(255, 165, 0, 0.9);
+}
+.div8:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.div9 {
+    background-color: rgba(50, 50, 50, 0.5); /* Dark gray with 50% transparency */
+    height: 650px;
+    width: 650px;
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 0.7);
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px; /* Increase font size */
+    font-weight: bold; /* Make text bolder */
+    padding: 20px;
+    margin-top: 60px;
+    box-sizing: border-box;
+    box-shadow: 0px -5px 30px rgba(255, 165, 0, 0.9);
+}
+.div9:hover{
+    box-shadow: 0px 0px 30px rgba(0, 0, 255, 0.8);
+
+}
+.goal-image {
+    width: 100%; /* ✅ Ensures image fits within .div9 */
+    max-width: 100%; /* ✅ Prevents image from overflowing */
+    height: auto; /* ✅ Maintains aspect ratio */
+    display: block; /* ✅ Removes extra space below the image */
+    margin: 10px auto; /* ✅ Centers the image inside div */
+}
+
+.footer {
+    background-color: #333; /* Dark background */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    border-top: 4px solid #ff6600;  /** 🔥 CHANGED 🔥 Added border at the top **/
+    box-shadow: 0px -5px 20px rgba(255, 102, 0, 0.7); /** 🔥 CHANGED 🔥 Added glowing shadow **/
+    transition: all 0.3s ease-in-out; /** 🔥 CHANGED 🔥 Smooth transition **/
+}
+
+.footer:hover { 
+    background-color: #222; /** 🔥 CHANGED 🔥 Darken the footer on hover **/
+    box-shadow: 0px -5px 30px rgba(255, 165, 0, 0.9); /** 🔥 CHANGED 🔥 More glow effect on hover **/
+}
+
+.footer a {
+    color: #f1f1ed; /* Highlighted links */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out; /** 🔥 CHANGED 🔥 Smooth color transition **/
+}
+
+.footer a:hover {
+    color: #ffcc00; /* Change color on hover */
+    text-shadow: 0px 0px 10px rgba(255, 204, 0, 0.8); /** 🔥 CHANGED 🔥 Glowing text effect **/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
