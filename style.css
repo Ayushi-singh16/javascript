@@ -14,13 +14,13 @@ body{
 .one{
     color: #6EACDA;
     display: flex;
-    align-items: centre;
+    align-items: center;
     justify-content: center;
 }
 .two{
     color: aliceblue;
     display: flex;
-    align-items: centre;
+    align-items: center;
     justify-content: center;
 }
 .image {
